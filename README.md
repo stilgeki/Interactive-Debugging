@@ -12,8 +12,16 @@ Step 1
 Create a project file, and add sierpinski.cpp to the project. Also, look at correct-triangle.html to see an example of correct output. Skim/read the source code for sierpinski.cpp, and try to answer the following questions:
 
 * 1.a) What is the purpose of this program?
+
+The purpose of this program is to create a file that contains a type of fractal known as the Sierpinski triangle.
+
 * 1.b) Does the program produce output? If so, what kind of output is it, and where does it end up?
+
+Yes, the program produces output in the form of an HTML file, currently specified as triangle.html.
+
 * 1.c) Does the program accept input? If so, what kind of input, and how is it provided?
+
+The program as a whole doesn't appear to accept input, but the primary method used to create the triangle accepts an input parameter for the sidelength.
 
 Step 2
 -------
